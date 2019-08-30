@@ -28,5 +28,3 @@ Built With Python - v3.7.0
 Authors Avisekh Dey
 
 Acknowledgments This project is part of the requirement for completion of Udacity Python Nanodegree program. The various instructors video present in this course have been a major contributor for the successful completion of this project
-
-https://github.com/Avisekh2407/MovieTrailerProject/issues/1#issue-487538044
