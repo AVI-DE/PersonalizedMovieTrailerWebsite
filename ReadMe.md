@@ -41,7 +41,7 @@ This project is part of the requirement for completion of Udacity Python Nanodeg
 
 ![Movie Trailer ScreenShot](https://user-images.githubusercontent.com/46341508/64031900-62930780-cb17-11e9-84fe-3f7f96e32e91.JPG)
 
-PLAYING OF THE TRAILER:
+## Playing Movie Trailer
 
 ![Video Screenshot](https://user-images.githubusercontent.com/46341508/64031992-91a97900-cb17-11e9-949e-829056d17b32.JPG)
 
