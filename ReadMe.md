@@ -6,7 +6,7 @@ This project is based on writing server-side code to store a list of my favorite
 
 Movie Trailer website project is required to design server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You will then serve this data as a web page allowing visitors to review their movies and watch the trailers.
 
-## Prerequisites Software's to be installed 
+## Prerequisite Software's to be installed 
 
 Git-Bash, Atom , Chrome or any browser
 
