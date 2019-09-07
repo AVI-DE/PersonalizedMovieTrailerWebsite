@@ -1,15 +1,18 @@
-# MovieTrailerProject
-This project is based on writing server-side code to store a list of my favorite movies, including box art imagery and a movie trailer URL.
-I then used my code to generate a static web page allowing visitors to browse the movies and watch their trailers.
+## Project Title - MovieTrailerProject
 
-Source code for a Movie Trailer website:
-Project Title - Movie Trailer website project is required to design server-side code to store a list of your favorite movies, 
-including box art imagery and a movie trailer URL. You will then serve this data as a web page allowing visitors to review their movies 
-and watch the trailers.
+This project is based on writing server-side code to store a list of my favorite movies, including box art imagery and a movie trailer URL.I then used my code to generate a static web page allowing visitors to browse the movies and watch their trailers.
 
-Prerequisites Software's to be installed - Git-Bash, Atom , Chrome or any browser
+## Source code for a Movie Trailer website
 
-Getting Started - In order to run the Movie Trailer website project in a developers environment in your local machine follow the below stepwise for execution
+Movie Trailer website project is required to design server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You will then serve this data as a web page allowing visitors to review their movies and watch the trailers.
+
+## Prerequisites Software's to be installed 
+
+Git-Bash, Atom , Chrome or any browser
+
+## Getting Started
+
+In order to run the Movie Trailer website project in a developers environment in your local machine follow the below stepwise for execution
 
 STEP 1 - Download the "Movie Trailer Website.zip" file & store the same at your local machine after unzipping
 
@@ -23,13 +26,18 @@ STEP 4 - Wait for the Movie Trailer website to load in the default browser at yo
 
 Apart from the above steps if you prefer to run the Movie Trailer website directly then run the "fresh_tomatoes" HTML file present inside the folder "Movie Trailer Website"
 
-Built With Python - v3.7.0
+## Built With 
 
-Authors Avisekh Dey
+Python - v3.7.0
 
-Acknowledgments This project is part of the requirement for completion of Udacity Python Nanodegree program. The various instructors video present in this course have been a major contributor for the successful completion of this project
+Author
+Avisekh Dey
 
-MOVIE TRAILER WEBSITE LANDING PAGE:
+## Acknowledgment
+
+This project is part of the requirement for completion of Udacity Python Nanodegree program. The various instructors video present in this course have been a major contributor for the successful completion of this project
+
+## Movie Trailer Website Landing Page
 
 ![Movie Trailer ScreenShot](https://user-images.githubusercontent.com/46341508/64031900-62930780-cb17-11e9-84fe-3f7f96e32e91.JPG)
 
