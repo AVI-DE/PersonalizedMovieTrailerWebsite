@@ -1,4 +1,4 @@
-## Project Title - MovieTrailerProject
+## Project Title - Personalized Movie Trailer Website
 
 This project is based on writing server-side code to store a list of my favorite movies, including box art imagery and a movie trailer URL.I then used my code to generate a static web page allowing visitors to browse the movies and watch their trailers.
 
